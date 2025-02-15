@@ -50,7 +50,7 @@
   },
   "browserslist": "> 5%, IE > 9, last 10 versions",
   "dependencies": {
-    "@trezor/utxo-lib": "0.1.2",
+    "@trezor/utxo-lib": "1.0.0",
     "bchaddrjs": "^0.5.2",
     "bignumber.js": "^9.0.1",
     "queue": "^6.0.2",
